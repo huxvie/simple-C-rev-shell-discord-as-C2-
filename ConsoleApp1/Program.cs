@@ -476,7 +476,7 @@ namespace Discordfriend
                         if (mo["Name"] != null)
                         {
                             string driverName = mo["Name"].ToString().ToLower();
-                            if (driverName.Contains("vbox2313") || driverName.Contains("vmware") ||
+                            if (driverName.Contains("vbox") || driverName.Contains("vmware") ||
                                 driverName.Contains("vmmem") || driverName.Contains("xen") || driverName.Contains("prl"))
                             {
                                 Console.WriteLine($"   -> Driver found: {driverName}");
@@ -836,4 +836,5 @@ namespace Discordfriend
         }
         // End morgan/neiki anti vm
     }
+
 }
