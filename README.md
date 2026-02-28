@@ -18,7 +18,7 @@
 This is my first ever C# project that I released, I know the code isnt good and most of the code is a non working antivm.        
 The rev shell is using a discord Bot as C2        
 This was more of a test and I decided why not just upload it to github.                      
-Credits to Neiki for the working antivm (line 736-837) https://github.com/NeikiDev/Morgan
+Credits to Neiki for the working antivm (line 736-837) https://github.com/NeikiDev/Morgan (licensed under  MIT license )
 
 This are the detections on multiple av providers: https://www.threat.rip/file/1d8c2dfd134bb10038876378eec50e9bae222517fd79534685bf0cc219ede9c0   (I used vmp to make reversal harder)
 
