@@ -15,7 +15,8 @@
 
 ## :star2: About the Project
 
-This is my first ever C# project that I released, I know the code isnt good and most of the code is a non working antivm.            
+This is my first ever C# project that I released, I know the code isnt good and most of the code is a non working antivm.        
+The rev shell is using a discord Bot as C2        
 This was more of a test and I decided why not just upload it to github.                      
 Credits to Neiki for the working antivm (line 736-837) https://github.com/NeikiDev/Morgan
 
