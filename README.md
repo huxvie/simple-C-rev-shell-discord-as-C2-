@@ -11,7 +11,7 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
-- [hiw to enable debug console](###-bangbang-How-to-enable-debugconsol)
+- [how to enable debug console](###-bangbang-How-to-enable-debugconsol)
 
 ## :star2: About the Project
 
