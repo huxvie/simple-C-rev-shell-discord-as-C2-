@@ -22,6 +22,11 @@ Credits to Neiki for the working antivm (line 736-837) https://github.com/NeikiD
 
 This are the detections on multiple av providers: https://www.threat.rip/file/1d8c2dfd134bb10038876378eec50e9bae222517fd79534685bf0cc219ede9c0   (I used vmp to make reversal harder)
 
+
+
+sometimes the antivm is triggering because for example vbox is installed, just disable some stuff around line 479 to make it work :)
+
+
 ### :dart: Features
 - Rev Shell
 - Discord
